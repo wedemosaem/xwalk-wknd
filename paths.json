@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/xwalk-wknd/:/",
-    "/content/xwalk-wknd/metadata.json:/metadata.json",
-    "/content/xwalk-wknd/redirects.json:/redirects.json",
-    "/content/xwalk-wknd/configuration.json:/configuration.json"
+    "/content/xsc-xwalk-site/:/",
+    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
+    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
+    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
   ]
 }
